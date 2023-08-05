@@ -31,10 +31,10 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bikash-789&show_icons=true&locale=en" alt="bikash-789" /></p>-->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bikash-789&show_icons=true&card_width=500&border_radius=18" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bikash-789&show_icons=true&card_width=400&border_radius=18" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikash-789&layout=compact&langs_count=8&card_width=450&border_radius=18" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bikash-789&layout=compact&langs_count=8&card_width=400&border_radius=18" />
 </a>
 
 <br/>
