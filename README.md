@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bikash</h1>
-<h3 align="center">A passionate software engineer from Nepal 🇳🇵</h3>
+<h1 align="center">Hi 👋, I'm Bikash Chauhan</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bikash-789&label=Profile%20views&color=blueviolet&style=flat" alt="bikash-789" /> </p>
 
