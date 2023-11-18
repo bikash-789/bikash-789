@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bikash-chauhan-9b5970167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikash-chauhan-9b5970167" height="30" width="40" /></a>
-<a href="https://instagram.com/bikash_789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikash_789" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chauhanbikash789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chauhanbikash789" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chauhanbikash789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chauhanbikash789" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bikash-chauhan-9b5970167" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikash-chauhan-9b5970167" height="30" width="40" /></a>
+<a href="https://instagram.com/bikash_789" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikash_789" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chauhanbikash789" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chauhanbikash789" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bikash789/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chauhanbikash789" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
