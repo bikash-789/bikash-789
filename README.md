@@ -11,9 +11,9 @@
 
 - 🤝 I’m looking for help with **iOS Development**
 
-- 💬 Ask me about **React, NodeJS, MongoDB**
+- 💬 Ask me about **React, NodeJS, MongoDB, NextJS**
 
-- 📫 How to reach me **chauhanbikash789@gmail.com**
+- 📫 How to reach me **<a href="https://cbikash789.onrender.com" target="_blank">imbikash.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
