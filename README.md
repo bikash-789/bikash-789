@@ -21,6 +21,9 @@
 <a href="https://instagram.com/bikash_789" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikash_789" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chauhanbikash789" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chauhanbikash789" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bikash789/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chauhanbikash789" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/bikash_789" target="_blank" rel="noreferrer">
+  <img src="https://github.com/bikash-789/bikash-789/assets/63906998/a835137e-2d30-46fc-af79-ba0c9a1d2461" width="30" height="40" alt="bikashchauhan789" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
