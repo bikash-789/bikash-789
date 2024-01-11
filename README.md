@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Spring Framework**
 
-- 🤝 I’m looking for help with **iOS Development**
+- 🤝 I’m looking for help with **Springboot Development**
 
 - 💬 Ask me about **React, NodeJS, MongoDB, NextJS**
 
