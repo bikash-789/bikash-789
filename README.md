@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bikash Chauhan</h1>
+<h1 align="center">Hi👋 I'm Bikash Chauhan</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bikash-789&label=Profile%20views&color=blueviolet&style=flat" alt="bikash-789" /> </p>
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, NodeJS, MongoDB, NextJS**
 
-- 📫 How to reach me **<a href="https://cbikash789.onrender.com" target="_blank">imbikash.com</a>**
+- 📫 Visit my portfolio **<a href="https://cbikash789.onrender.com" target="_blank">imbikash.com</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
