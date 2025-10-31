@@ -14,7 +14,9 @@
 
 ### 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<table>
+<tr>
+<td width="50%">
 
 🎯 **Software Engineer** passionate about building scalable web applications
 
@@ -24,12 +26,18 @@
 
 🔧 Currently exploring **Distributed Systems** and **Cloud Technologies**
 
+</td>
+<td width="50%">
+
 📚 Always learning and staying updated with the latest tech trends
 
 🌐 Check out my portfolio: **[imbikash.com](https://portfolio-frontend-ofb6.onrender.com)**
 
 💬 Ask me about **Golang, React.js, Node.js, Spring Boot, MongoDB, RAG**
 
+</td>
+</tr>
+</table>
 ---
 
 ### 🛠️ Tech Stack
