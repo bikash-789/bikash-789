@@ -24,7 +24,7 @@
 
 🏗️ Love working with **Microservices** and **Event-Driven Architecture**
 
-🔧 Currently exploring **Distributed Systems** and **Cloud Technologies**
+🔧 Currently exploring **Data Engineering** and **Cloud Technologies**
 
 </td>
 <td width="50%">
@@ -38,7 +38,6 @@
 </td>
 </tr>
 </table>
----
 
 ### 🛠️ Tech Stack
 
@@ -110,7 +109,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cbikash789)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cbikash789)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bikashchauhan___)
   [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chauhanbikash789)
   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/bikash789/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-frontend-ofb6.onrender.com)
